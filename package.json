@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/CaiqueR/trabalho-damd-rabbitmq#readme",
   "dependencies": {
-    "amqplib": "^0.5.5"
+    "amqplib": "^0.10.3"
   }
 }
